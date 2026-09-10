@@ -301,6 +301,7 @@ This laboratory is intended strictly for education purposes only.
 - **VirtualBox:** [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
 - **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
 - **Android:**  [https://https://www.android-x86.org/download]
+- **Window:**   [https://www.microsoft.com/en-us/software-download/windows10]
 ---
 
 # 👤 Author
