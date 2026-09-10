@@ -307,7 +307,7 @@ This laboratory is intended strictly for education purposes only.
 # 👤 Author
 
 **Solomon Diri**\
-Cybersecurity Intern @Networkwalks B083
+Cybersecurity Intern @[ NETWORKWALKS ](https://networkwalks.com/) B083
 
 LinkedIn: [https://www.linkedin.com/in/mcdiri/](https://www.linkedin.com/in/mcdiri/)
 
