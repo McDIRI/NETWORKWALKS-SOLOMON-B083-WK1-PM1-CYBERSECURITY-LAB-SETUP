@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-C00000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Solomon%20Diri%20CCIE-C00000?style=flat-square" />
 </p>
 
 ---
@@ -300,13 +300,13 @@ This laboratory is intended strictly for education purposes only.
 - **7-Zip:** [https://7-zip.org/download.html](https://7-zip.org/download.html)
 - **VirtualBox:** [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
 - **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
-
+- **Android:**  [https://https://www.android-x86.org/download]
 ---
 
 # 👤 Author
 
 **Solomon Diri**\
-Cybersecurity Professional B083
+Cybersecurity Intern @Networkwalks B083
 
 LinkedIn: [https://www.linkedin.com/in/mcdiri/](https://www.linkedin.com/in/mcdiri/)
 
