@@ -69,7 +69,7 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![](1-screenshot-title-image.png)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/f4c78aa2d73860ae1922d01e35f1beff35abe106/Lab%20Architecture.png)
 
 
 Additional target machines can be added to the same virtual network in future projects.
