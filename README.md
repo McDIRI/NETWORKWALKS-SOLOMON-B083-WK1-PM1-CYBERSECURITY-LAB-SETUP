@@ -91,7 +91,10 @@ Additional target machines can be added to the same virtual network in future pr
 | 🐧 Kali IP Address | 10.0.0.2/24        |
 | 🚪 Default Gateway | 10.0.0.1           |
 | 🌍 DNS Server      | 8.8.8.8            |
-| 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
+|    Window VM        | 10.0.0.10          |
+|    Android VM       | 10.0.0.9           |
+| 🔮 VM Range | 10.0.0.2–10.0.0.99 |
+
 
 ---
 
